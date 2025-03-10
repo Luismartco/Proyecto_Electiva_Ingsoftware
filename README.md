@@ -1,6 +1,6 @@
 # Boudin
 
-**BOUDIN:** como estrategia pedagógica para fomentar la comprensión lectora a través de aplicativos tecnológicos en los estudiantes del grado 11 de la Institución Educativa Antonio Lenis
+**BOUDIN:** como estrategia pedagógica para fomentar la comprensión lectora a través de aplicativos tecnológicos en los estudiantes, está plataforma educativa diseñada para fortalecer la comprensión lectora en estudiantes de primaria y secundaria, especialmente en contextos rurales y con baja cobertura educativa, como el departamento de Sucre, Colombia.
 
 ## Descripción:
 
